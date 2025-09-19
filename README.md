@@ -5,7 +5,7 @@
 # ⚡ Azhar Aulia (@azharjak09) ⚡  
 🌍 Student • Fullstack Enthusiast • Network & Electrical Background  
 
-![Profile Views](https://komarev.com/ghpvc/?username=azharjak09&color=00C4FF&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=azharjak09&color=00D1FF&style=for-the-badge)  
 ![Followers](https://img.shields.io/github/followers/azharjak09?style=for-the-badge&logo=github&color=blue)  
 ![GitHub Stars](https://img.shields.io/github/stars/azharjak09?style=for-the-badge&logo=github&color=yellow)  
 
@@ -29,7 +29,7 @@ I believe that **technology is not only about coding, but also about creating so
 ## 🎯 Interests & Hobbies  
 - 🎶 Music — keeps me inspired and relaxed.  
 - 🎮 Online Games — sharpen strategy and teamwork.  
-- 😴 Sleeping — recharging to stay focused.  
+- 😴 Sleeping — recharge to stay focused.  
 
 ---
 
@@ -56,8 +56,6 @@ I believe that **technology is not only about coding, but also about creating so
 ✨ **Let’s Connect!** ✨  
 <sub>Follow, DM, or send me an email — I’m always open to collaboration 🚀</sub>  
 
----
-
 <p align="center">
   <a href="https://www.tiktok.com/@azharjak09" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
@@ -70,14 +68,13 @@ I believe that **technology is not only about coding, but also about creating so
   </a>
 </p>
 
----
 </div>
-
 
 ---
 
 <div align="center">
 
 ⭐ *“Dream it. Code it. Build it. Repeat.”* ⭐  
+💬 Made with ❤️ by **Azhar Aulia**  
 
 </div>
