@@ -76,9 +76,15 @@ Selain coding, saya juga suka:
 ## 📫 Kontak Saya
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=100036108545089)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/azharjak09)  
-[![Email](https://img.shields.io/badge/Email-azharjack28@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:azharjack28@gmail.com)  
+💬 Jangan ragu untuk menghubungi saya melalui platform berikut:  
+
+| Platform | Link |
+|----------|------|
+| <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="25"/> **Facebook** | [Klik di sini](https://www.facebook.com/profile.php?id=100036108545089) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="25"/> **Instagram** | [@azharjak09](https://instagram.com/azharjak09) |
+| <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="25"/> **Email** | [azharjack28@gmail.com](mailto:azharjack28@gmail.com) |
+
+✨ Saya selalu terbuka untuk **kolaborasi proyek, diskusi teknologi, atau sekadar ngobrol santai**.  
 
 </div>
 
