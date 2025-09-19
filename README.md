@@ -13,22 +13,23 @@
 
 ---
 
-## 🙋 Tentang Saya  
-Halo, saya **Azhar Aulia** 👨‍💻  
-Pelajar di **SMKN 2 Subang**, dengan minat besar pada jurusan **Software Engineering**.  
+## 🙋 About Me  
+Hello, I’m **Azhar Aulia** 👨‍💻  
+A student at **SMKN 2 Subang**, passionate about **Software Engineering**.  
 
-Perjalanan saya dimulai sejak SMK, ketika saya jatuh cinta pada dunia teknologi
+My journey began in high school when I discovered my love for technology.  
+I realized that **a few lines of code can turn simple ideas into real solutions**.  
 
-Saya percaya bahwa **teknologi bukan hanya tentang coding, tapi tentang menciptakan solusi yang bermanfaat bagi banyak orang**. 🚀  
+I believe that **technology is not only about coding, but also about creating solutions that benefit many people**. 🚀  
 
-✨ **Moto Hidup:** *“Dream it, Code it, Build it.”* ✨  
+✨ **Life Motto:** *“Dream it, Code it, Build it.”* ✨  
 
 ---
 
-## 🎯 Minat & Hobi
-- 🎶 Musik — pengisi waktu dan sumber inspirasi.  
-- 🎮 Game Online — melatih strategi dan teamwork.  
-- 😴 Tidur — recharge biar tetap fokus.  
+## 🎯 Interests & Hobbies  
+- 🎶 Music — keeps me inspired and relaxed.  
+- 🎮 Online Games — sharpen strategy and teamwork.  
+- 😴 Sleeping — recharging to stay focused.  
 
 ---
 
@@ -42,19 +43,18 @@ Saya percaya bahwa **teknologi bukan hanya tentang coding, tapi tentang mencipta
 ---
 
 ## 📌 Featured Projects  
-> 🚀 Beberapa karya saya yang paling menantang & seru  
+> 🚀 Some of my favorite and most challenging works  
 
-- **📦 Aplikasi Penjualan** – Sistem manajemen produk, stok, supplier, laporan, dan transaksi.  
-- **📚 Perpustakaan Digital** – Aplikasi manajemen koleksi buku, peminjaman, dan pengembalian berbasis web.  
-- **💻 Portfolio Website** – Website pribadi interaktif dengan Next.js & TailwindCSS.  
+- **📦 Sales Application** – A system for managing products, stock, suppliers, reports, and transactions.  
+- **📚 Digital Library** – A web-based app for managing book collections, borrowing, and returns.  
 
 ---
 
-## 📫 Kontak Saya  
+## 📫 Contact Me  
 <div align="center">
 
-✨ **Mari Terhubung dengan Saya!** ✨  
-<sub>Follow, DM, atau kirim email — saya selalu terbuka untuk kolaborasi 🚀</sub>  
+✨ **Let’s Connect!** ✨  
+<sub>Follow, DM, or send me an email — I’m always open to collaboration 🚀</sub>  
 
 ---
 
