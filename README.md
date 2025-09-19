@@ -53,15 +53,32 @@ Saya percaya bahwa **teknologi bukan hanya tentang coding, tapi tentang mencipta
 ## 📫 Kontak Saya  
 <div align="center">
 
-🌐 **Mari Terhubung!** 🌐  
+✨ **Let's Connect and Collaborate!** ✨  
 
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@azharjak09)  
-[![Instagram](https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azharjak09)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azharjack28@gmail.com)  
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.tiktok.com/@azharjak09">
+        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046125.png" width="60"/><br/>
+        <b>TikTok</b>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://instagram.com/azharjak09">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60"/><br/>
+        <b>Instagram</b>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:azharjack28@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/><br/>
+        <b>Email</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-✨ Feel free to reach out untuk **kolaborasi, diskusi teknologi, atau sekadar ngobrol santai** 😎  
-
-</div>  
+</div>
 
 ---
 
