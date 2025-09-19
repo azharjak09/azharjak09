@@ -15,9 +15,9 @@
 
 ## 🙋 Tentang Saya  
 Halo, saya **Azhar Aulia** 👨‍💻  
-Pelajar di **SMKN 2 Subang**, dengan minat besar pada **web development & fullstack programming**.  
+Pelajar di **SMKN 2 Subang**, dengan minat besar pada jurusan **Software Engineering**.  
 
-Perjalanan saya dimulai sejak SMK, ketika saya jatuh cinta pada dunia teknologi. Dari sekadar membuat aplikasi sederhana dengan **PHP**, hingga membangun proyek dengan **Laravel, Next.js, dan TailwindCSS**.  
+Perjalanan saya dimulai sejak SMK, ketika saya jatuh cinta pada dunia teknologi
 
 Saya percaya bahwa **teknologi bukan hanya tentang coding, tapi tentang menciptakan solusi yang bermanfaat bagi banyak orang**. 🚀  
 
