@@ -27,9 +27,9 @@ I believe that **technology is not only about coding, but also about creating so
 ---
 
 ## 🎯 Interests & Hobbies  
-- 🎶 Music — keeps me inspired and relaxed.  
-- 🎮 Online Games — sharpen strategy and teamwork.  
-- 😴 Sleeping — recharge to stay focused.  
+- 🎶 Music  
+- 🎮 Online Games  
+- 😴 Sleeping  
 
 ---
 
@@ -43,38 +43,27 @@ I believe that **technology is not only about coding, but also about creating so
 ---
 
 ## 📌 Featured Projects  
-> 🚀 Some of my favorite and most challenging works  
+> 🚀 Some of my favorite works  
 
-- **📦 Sales Application** – A system for managing products, stock, suppliers, reports, and transactions.  
-- **📚 Digital Library** – A web-based app for managing book collections, borrowing, and returns.  
-
----
-
-## 📫 Contact Me  
-<div align="center">
-
-✨ **Let’s Connect!** ✨  
-<sub>Follow, DM, or send me an email — I’m always open to collaboration 🚀</sub>  
-
-<p align="center">
-  <a href="https://www.tiktok.com/@azharjak09" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/azharjak09" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:azharjack28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-</div>
+- **📦 Sales Application** – Manage products, stock, suppliers, reports, and transactions.  
+- **📚 Digital Library** – Web-based app for managing books, borrowing, and returns.  
 
 ---
 
+## 📫 Footer (Connect & Socials)  
 <div align="center">
 
-⭐ *“Dream it. Code it. Build it. Repeat.”* ⭐  
-💬 Made with ❤️ by **Azhar Aulia**  
+<a href="https://www.tiktok.com/@azharjak09" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://instagram.com/azharjak09" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:azharjack28@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/azharjak09" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
