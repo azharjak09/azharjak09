@@ -64,9 +64,6 @@ Selain coding, saya juga suka:
 <!-- VS Code -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
 
-<!-- Linux -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="Linux" />
-
 </div>
 
 ---
