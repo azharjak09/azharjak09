@@ -58,9 +58,6 @@ Selain coding, saya juga suka:
 <!-- TailwindCSS -->
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" alt="TailwindCSS" />
 
-<!-- Git -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git" />
-
 <!-- VS Code -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
 
