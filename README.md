@@ -53,32 +53,26 @@ Saya percaya bahwa **teknologi bukan hanya tentang coding, tapi tentang mencipta
 ## 📫 Kontak Saya  
 <div align="center">
 
-✨ **Let's Connect and Collaborate!** ✨  
+✨ **Mari Terhubung dengan Saya!** ✨  
+<sub>Follow, DM, atau kirim email — saya selalu terbuka untuk kolaborasi 🚀</sub>  
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.tiktok.com/@azharjak09">
-        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046125.png" width="60"/><br/>
-        <b>TikTok</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://instagram.com/azharjak09">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60"/><br/>
-        <b>Instagram</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:azharjack28@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/><br/>
-        <b>Email</b>
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
+<p align="center">
+  <a href="https://www.tiktok.com/@azharjak09" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/azharjak09" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:azharjack28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 </div>
+
 
 ---
 
