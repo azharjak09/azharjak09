@@ -15,7 +15,7 @@
 
 ## 🙋 Tentang Saya
 Halo! Nama saya **Azhar Aulia**.  
-Saya seorang pelajar di SMKN 2 SUBANG, dan saat ini fokus mendalami dunia **pemrograman web dan fullstack development**.  
+Saya seorang pelajar di **SMKN 2 SUBANG**, dan saat ini fokus mendalami dunia **pemrograman web dan fullstack development**.  
 
 Saya mulai tertarik dengan dunia teknologi sejak SMK, terutama ketika mengenal pemrograman dan bagaimana sebuah aplikasi bisa membantu banyak orang. Dari situ, saya mencoba berbagai hal mulai dari **membangun aplikasi sederhana dengan PHP**, belajar framework seperti **Laravel**, hingga membuat tampilan modern dengan **Next.js & TailwindCSS**.  
 
@@ -30,16 +30,16 @@ Selain coding, saya juga suka:
 
 ## 🧰 Tech Stack & Tools
 <div align="center">
-  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&style=for-the-badge)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="60" alt="Laravel" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="TailwindCSS" /> 
 
 </div>
 
