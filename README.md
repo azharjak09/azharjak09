@@ -32,7 +32,7 @@ Selain coding, saya juga suka:
 <div align="center">
 
 <!-- Laravel -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="60" alt="Laravel" />
+<img src="https://laravel.com/img/logomark.min.svg" height="60" alt="Laravel" />
 
 <!-- PHP -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="60" alt="PHP" />
