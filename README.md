@@ -50,20 +50,8 @@ I believe that **technology is not only about coding, but also about creating so
 
 ---
 
-## 📫 Footer (Connect & Socials)  
+## 📫 Connect & Socials  
+
 <div align="center">
-
-<a href="https://www.tiktok.com/@azharjak09" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://instagram.com/azharjak09" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:azharjack28@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/azharjak09" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<!-- Footer area intentionally left blank -->
 </div>
