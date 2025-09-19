@@ -31,15 +31,41 @@ Selain coding, saya juga suka:
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="60" alt="Laravel" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="TailwindCSS" /> 
+<!-- Laravel -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="60" alt="Laravel" />
+
+<!-- PHP -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="60" alt="PHP" />
+
+<!-- MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" />
+
+<!-- Next.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" />
+
+<!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" alt="React" />
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+
+<!-- Node.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
+
+<!-- TailwindCSS -->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60" alt="TailwindCSS" />
+
+<!-- Git -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git" />
+
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
+
+<!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="Linux" />
 
 </div>
 
