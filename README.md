@@ -1,93 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=700&lines=Hello+World!+🌍;I'm+AzharHrj+🔥;Network+%26+Electrical+Engineer;Frontend+Developer+%7C+ReactJS+%7C+NextJS;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&v Center=true&width=700&lines=Hello+👋,+I'm+Azhar+Jak;Laravel+%7C+PHP+%7C+MySQL+%7C+Next.js;Welcome+to+My+GitHub+Profile!+🚀" alt="Typing Animation" />
 
-# 👋 Hi, I’m AzharHrj  
-
-![Profile Views](https://komarev.com/ghpvc/?username=AzharHrj&color=blueviolet&style=flat-square)  
-![GitHub followers](https://img.shields.io/github/followers/AzharHrj?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/AzharHrj?style=social)  
-
-💡 **Electrical & Network Engineer | Self-Taught Web Developer | Music & Photography Enthusiast**  
-
-</div>
+# ✨ Azhar Aulia ✨
+🌍 Student | 🎨 Loves learning new technologies | ⚡ Focus on Laravel + Next.js
 
 ---
 
-## 🙋 About Me
-- 🌍 Based in **North Jakarta, Indonesia**  
-- ⚡ Currently working on **Red Timer Indonesia**  
-- 💻 Learning **JavaScript, ReactJS, NextJS**  
-- 🎸 Hobbies: Playing **guitar & piano**, watching movies 🎬, and photography 📸  
-- 🎯 Goal: Become a **Fullstack Developer** while combining skills in **engineering & software**  
-
----
-
-## ⚙️ Tech & Tools I Use
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoCol or=white&style=for-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-badge)
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AzharHrj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharHrj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AzharHrj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />  
-
-</div>
+![GitHub Statistics Azhar](https://github-readme-stats.vercel.app/api?username=azharjak09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=azharjak09&layout=compact&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=azharjak09&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AzharHrj&theme=onedark&no-frame=true&row=1&column=7)
-
-</div>
+## 🚀 Recent Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azharjak09&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🎯 Current Focus & Projects
-- 🚀 Building web apps with **ReactJS & NextJS**  
-- 📡 Expanding knowledge in **network engineering & IoT**  
-- 🌱 Creating projects that combine **software & hardware**  
-- 🔥 Open to **collaboration** and **open-source contributions**  
+## 🌐 Connect With I
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:YourEMAIL@gmail.com)
 
 ---
 
-## 📫 Connect With Me
-<div align="center">
-
-[![Website](https://img.shields.io/badge/🌐_Website-azharhrj.my.id-blue?style=for-the-badge)](https://azharhrj.my.id)  
-[![Email](https://img.shields.io/badge/📧_Email-me@azharhrj.my.id-red?style=for-the-badge)](mailto:me@azharhrj.my.id)  
-[![Discord](https://img.shields.io/badge/💬_Discord-lordaz04-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lordaz04)  
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
-
-</div>
-
----
-
-<div align="center">
-
-✨ *"Sometimes I build things just to learn.  
-Other times I learn just by building."* ✨
+⭐ *“Code. Learn. Build. Repeat.”* ⭐
 
 </div>
