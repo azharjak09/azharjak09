@@ -68,9 +68,8 @@ Selain coding, saya juga suka:
 ## 📌 Featured Projects
 > Beberapa project yang saya kerjakan (akan saya update terus)
 
-- **Aplikasi Penjualan** – Manajemen produk, stok, supplier, laporan.  
-- **Portfolio Website** – Showcase project pribadi.  
-- **Mini POS System** – Point of Sale sederhana dengan Laravel.  
+- **Aplikasi Penjualan** – Sistem manajemen produk, stok, supplier, laporan, dan transaksi.  
+- **Perpustakaan Digital** – Aplikasi manajemen koleksi buku, peminjaman, dan pengembalian berbasis web.  
 
 ---
 
