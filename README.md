@@ -15,7 +15,7 @@
 
 ## 🙋 Tentang Saya
 Halo! Nama saya **Azhar Aulia**.  
-Saya seorang pelajar dengan latar belakang **Jaringan & Elektro**, dan sekarang fokus mendalami **Laravel, PHP, MySQL, dan Next.js**.  
+Saya seorang pelajar SMKN 2 SUBANG, dan sekarang fokus mendalami **Laravel, PHP, MySQL, dan Next.js**.  
 Saya senang membangun aplikasi yang bermanfaat, mengelola database, hingga membuat antarmuka yang menarik.  
 
 Selain coding, saya juga suka:
